@@ -1,5 +1,4 @@
 import { useState } from "react";
-import "./index.css";
 
 // Components (Directly in components folder)
 import { LoadingScreen } from "./components/LoadingScreen";
