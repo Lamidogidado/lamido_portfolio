@@ -1,16 +1,42 @@
-# React + Vite
+# Muhammad Lamido – Cloud & DevOps Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio repository.
 
-Currently, two official plugins are available:
+I'm an early-career Cloud and DevOps practitioner with a Software Engineering background and hands-on experience in AWS, Linux administration, Bash scripting, Docker, Kubernetes, Red Hat OpenShift, and GitHub Actions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Portfolio
 
-## React Compiler
+🌐 **Live Portfolio:** https://lamido-portfolio.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technical Skills
 
-## Expanding the ESLint configuration
+- **Cloud:** AWS (EC2, S3, Lambda, VPC, CloudFormation, CloudFront, IAM)
+- **Containers:** Docker, Kubernetes, Red Hat OpenShift
+- **CI/CD:** GitHub Actions, automated testing and deployment workflows
+- **Linux & Automation:** Linux, Bash scripting, cron, backup automation
+- **Networking:** TCP/IP, DNS, subnetting, routing
+- **Programming:** Python, JavaScript, Node.js, React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Featured Projects
+
+| Project | Technologies |
+|---|---|
+| AWS Resilient Web Fleet | AWS CloudFormation, VPC, EC2, ALB |
+| Serverless Image Processing Pipeline | AWS Lambda, S3, Python |
+| Automated CI/CD Pipeline | GitHub Actions |
+| IBM Cloud-Native Engineering Labs | Docker, Kubernetes, OpenShift |
+| Linux Incremental Backup Engine | Bash, Linux, Cron |
+| AWS Cloud Engineering Assistant | Amazon Bedrock, PartyRock |
+
+## Resume
+
+📄 [Download My Updated Cloud & DevOps Resume (PDF)](public/Muhammad_Lamido_Cloud_DevOps_Resume.pdf)
+
+## Contact
+
+- **GitHub:** https://github.com/Lamidogidado
+- **Portfolio:** https://lamido-portfolio.vercel.app/
+
+---
+
+*Open to junior Cloud Engineering, Cloud Support, DevOps, and Infrastructure Engineering opportunities.*
