@@ -41,8 +41,8 @@ export const Home = () => {
 
             {/* 3. New Strategic Resume Download Button */}
             <a
-              href="/Muhammad_Lamido_Resume.pdf" // Ensure your resume PDF is placed inside your /public directory
-              download="Muhammad_Lamido_Resume.pdf"
+              href="/Muhammad_Lamido_Cloud_DevOps_Resume.pdf"
+                download="Muhammad_Lamido_Cloud_DevOps_Resume.pdf"
               className="border border-cyan-500/30 bg-cyan-500/10 hover:bg-cyan-500/20 text-cyan-400 font-medium py-3 px-6 rounded-lg transition-all hover:-translate-y-0.5 text-sm md:text-base flex items-center gap-2"
             >
               <svg 
